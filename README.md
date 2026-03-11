@@ -1,6 +1,6 @@
+<!--
 ## Hi there 👋
 
-<!--
 **wobbo/wobbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,39 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## Ernst Lanser
+
+Interactive media developer working at the intersection of technology, design and communication.
+
+Experienced with **PHP, SQL, JavaScript and Linux**.  
+Building web tools, scripts, apps, video and digital media projects.
+
+Specialized in **assistive communication technology** and software solutions in healthcare.
+
+Background in **organizational advisory roles in rehabilitation care**, contributing to communication, policy discussions and outreach.
+
+---
+
+### 🛠 Current projects
+
+- [install-signal](https://github.com/wobbo/install-signal) – Install Signal Desktop on Raspberry Pi  
+- [yaru-themes-debian-trixie](https://github.com/wobbo/yaru-themes-debian-trixie) – Yaru themes for GNOME on Debian Trixie  
+- [geary-44.1-for-debian-trixie-arm64](https://github.com/wobbo/geary-44.1-for-debian-trixie-arm64) – Geary ARM64 build for Debian / Raspberry Pi OS
+
+---
+
+### 🍓 Raspberry Pi forum posts
+
+- [GUIDE: Install GNOME on Raspberry Pi OS Lite (Ubuntu-like)](https://forums.raspberrypi.com/viewtopic.php?t=373028#p2233233)
+- [INSTALL: Signal Desktop for Raspberry Pi OS
+](https://forums.raspberrypi.com/viewtopic.php?t=387491#p2313410)
+- [INSTALL: Sunshine and Moonlight instead VPN, RDP, SteamLink](https://forums.raspberrypi.com/viewtopic.php?t=387996#p2315741)
+- [HOWTO: Email Client Geary and Launches in Background on Startup (Raspberry Pi OS GNOME)](https://forums.raspberrypi.com/viewtopic.php?t=387502#p2313459)
+- [FIX: Yaru theme .deb for Raspberry Pi OS (Debian 13, GNOME 48)](https://forums.raspberrypi.com/viewtopic.php?t=393000#p2344104)
+- [HOWTO: Choose the correct locale & keyboard (ANSI, ISO, JIS, QWERTY, AZERTY, QWERTZ)](https://forums.raspberrypi.com/viewtopic.php?t=392681#p2342497)
+- [HOWTO: NordVPN Lynx to WireGuard for Rasberry Pi GNOME / Android
+](https://forums.raspberrypi.com/viewtopic.php?t=395466#p2358920)
+- [Tip: Use .bash_history, Skip SSH for RPi OS Lite Commands](https://forums.raspberrypi.com/viewtopic.php?t=379875#p2270936)
+- [Make Nautilus as Administrator](https://forums.raspberrypi.com/viewtopic.php?p=2234082#p2234082)
