@@ -31,10 +31,10 @@ Background in **organizational advisory roles in rehabilitation care**, contribu
 
 ### 🛠 Current projects
 
-- [install-signal](https://github.com/wobbo/install-signal) – Install Signal Desktop on Raspberry Pi  
-- [yaru-themes-debian-trixie](https://github.com/wobbo/yaru-themes-debian-trixie) – Yaru themes for GNOME on Debian Trixie  
-- [geary-44.1-for-debian-trixie-arm64](https://github.com/wobbo/geary-44.1-for-debian-trixie-arm64) – Geary ARM64 build for Debian / Raspberry Pi OS
-- [libreoffice-yaru-themes](https://github.com/wobbo/libreoffice-yaru-themes) – LibreOffice Yaru icon themes for Raspberry Pi OS arm64 GNOME and Debian Trixie.
+- [install-signal](https://github.com/wobbo/install-signal) – Signal for *Debian Trixie*, *GNOME*, *ARM64*.  
+- [geary-44.1-for-debian-trixie-arm64](https://github.com/wobbo/geary-44.1-for-debian-trixie-arm64) – Geary for *Debian Trixie*, *GNOME*, *ARM64*.
+- [yaru-themes-debian-trixie](https://github.com/wobbo/yaru-themes-debian-trixie) – Yaru for *Debian Trixie*, *GNOME*.  
+- [libreoffice-yaru-themes](https://github.com/wobbo/libreoffice-yaru-themes) – LibreOffice Yaru themes for *Debian Trixie*.
 
 ---
 
