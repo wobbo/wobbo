@@ -31,10 +31,10 @@ Background in **organizational advisory roles in rehabilitation care**, contribu
 
 ### 🛠 Current projects
 
-- [install-signal](https://github.com/wobbo/install-signal) – Signal for *Debian Trixie*, *GNOME*, *ARM64*.  
-- [geary-44.1-for-debian-trixie-arm64](https://github.com/wobbo/geary-44.1-for-debian-trixie-arm64) – Geary for *Debian Trixie*, *GNOME*, *ARM64*.
-- [yaru-themes-debian-trixie](https://github.com/wobbo/yaru-themes-debian-trixie) – Yaru for *Debian Trixie*, *GNOME*.  
-- [libreoffice-yaru-themes](https://github.com/wobbo/libreoffice-yaru-themes) – LibreOffice Yaru themes for *Debian Trixie*.
+- [signal-desktop](https://github.com/wobbo/signal-desktop) – Installation Signal Desktop for *Debian Trixie*, *GNOME*, *ARM64*.  
+- [geary-debian](https://github.com/wobbo/geary-debian) – Geary 44.1 for *Debian Trixie*, *GNOME*, *ARM64*.
+- [debian-yaru](https://github.com/wobbo/debian-yaru) – Yaru themes for *Debian Trixie*, *GNOME*.  
+- [libreoffice-yaru](https://github.com/wobbo/libreoffice-yaru) – LibreOffice Yaru themes for *Debian Trixie*.
 
 ---
 
