@@ -42,7 +42,7 @@ Background in **organizational advisory roles in rehabilitation care**, contribu
 
 ### 🍓 Raspberry Pi forum posts
 
-- [GUIDE: Install GNOME on Raspberry Pi OS Lite (Ubuntu-like)](https://forums.raspberrypi.com/viewtopic.php?t=373028#p2233233)
+- [GUIDE: Full GNOME on Raspberry Pi OS Lite (Ubuntu-style)](https://forums.raspberrypi.com/viewtopic.php?t=373028#p2233233)
 - [INSTALL: Signal Desktop for Raspberry Pi OS
 ](https://forums.raspberrypi.com/viewtopic.php?t=387491#p2313410)
 - [INSTALL: Sunshine and Moonlight instead VPN, RDP, SteamLink](https://forums.raspberrypi.com/viewtopic.php?t=387996#p2315741)
