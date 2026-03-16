@@ -31,7 +31,7 @@ Background in **organizational advisory roles in rehabilitation care**, contribu
 
 ### 🛠 Current projects
 
-- [rpi-gnome-install](https://github.com/wobbo/rpi-gnome-install) – Install GNOME on Raspberry Pi OS Lite for *Debian Trixie*, *GNOME*, *ARM64*.   
+- [rpi-gnome](https://github.com/wobbo/rpi-gnome) – Install GNOME on Raspberry Pi OS Lite for *Debian Trixie*, *GNOME*, *ARM64*.   
 - [signal-desktop](https://github.com/wobbo/signal-desktop) – Install Signal Desktop on *Debian Trixie*, *GNOME*, *ARM64*.  
 - [geary-debian](https://github.com/wobbo/geary-debian) – Geary 44.1 for *Debian Trixie*, *GNOME*, *ARM64*.
 - [nordvpn-wireguard](https://github.com/wobbo/nordvpn-wireguard) – Generate WireGuard configs from NordLynx for *Debian Trixie*, *GNOME*.
