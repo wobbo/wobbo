@@ -37,7 +37,7 @@ Background in **organizational advisory roles in rehabilitation care**, contribu
 - [nordvpn-wireguard](https://github.com/wobbo/nordvpn-wireguard) – Generate WireGuard configs from NordLynx for *Debian Trixie*, *GNOME*.
 - [debian-yaru](https://github.com/wobbo/debian-yaru) – Yaru themes for *Debian Trixie*, *GNOME*.  
 - [libreoffice-yaru](https://github.com/wobbo/libreoffice-yaru) – LibreOffice Yaru themes for *Debian Trixie*.
-
+- [rpi500plus-led](https://github.com/wobbo/rpi500plus-led)
 ---
 
 ### 🍓 Raspberry Pi forum posts
