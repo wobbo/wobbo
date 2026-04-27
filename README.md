@@ -54,4 +54,4 @@ Background in **organizational advisory roles in rehabilitation care**, contribu
 - [Tip: Use .bash_history, Skip SSH for RPi OS Lite Commands](https://forums.raspberrypi.com/viewtopic.php?t=379875#p2270936)
 - [Make Nautilus as Administrator](https://forums.raspberrypi.com/viewtopic.php?p=2234082#p2234082)
 - [LibreOffice Yaru Theme for Raspberry Pi OS Trixie (Debian 13)](https://forums.raspberrypi.com/viewtopic.php?t=393058#p2344404)
-- [RPi 500+ LED Controller for RGB Keyboard](https://github.com/wobbo/rpi500plus-led](https://forums.raspberrypi.com/viewtopic.php?t=397680#p2372473))
+- [RPi 500+ LED Controller for RGB Keyboard](https://forums.raspberrypi.com/viewtopic.php?t=397680#p2372473)
