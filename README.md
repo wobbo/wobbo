@@ -38,7 +38,7 @@ Background in **organizational advisory roles in rehabilitation care**, contribu
 - [debian-yaru](https://github.com/wobbo/debian-yaru) – Yaru themes for *Debian Trixie*, *GNOME*.  
 - [libreoffice-yaru](https://github.com/wobbo/libreoffice-yaru) – LibreOffice Yaru themes for *Debian Trixie*.
 - [rpi500plus-led](https://github.com/wobbo/rpi500plus-led) – Raspberry Pi 500+ keyboard LED control for *Debian, Ubuntu and more...*.
-- [vpn-ip-check](https://github.com/wobbo/vpn-ip-check) – Check your public IP to verify VPN status, optional speedtest support for * Debian, GNOME and ARM64*.
+- [vpn-ip-check](https://github.com/wobbo/vpn-ip-check) – Check your public IP to verify VPN status, speedtest support for *Debian, Ubuntu and more...*.
 ---
 
 ### 🍓 Raspberry Pi forum posts
