@@ -56,3 +56,4 @@ Background in **organizational advisory roles in rehabilitation care**, contribu
 - [Make Nautilus as Administrator](https://forums.raspberrypi.com/viewtopic.php?p=2234082#p2234082)
 - [LibreOffice Yaru Theme for Raspberry Pi OS Trixie (Debian 13)](https://forums.raspberrypi.com/viewtopic.php?t=393058#p2344404)
 - [RPi 500+ LED Controller for RGB Keyboard](https://forums.raspberrypi.com/viewtopic.php?t=397680#p2372473)
+- [Locale Codes for    sudo dpkg-reconfigure locales](https://forums.raspberrypi.com/viewtopic.php?t=398271#p2375720)
