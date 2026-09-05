@@ -31,9 +31,9 @@ Background in **organizational advisory roles in rehabilitation care**, contribu
 
 ### 🛠 Current projects
 
-- [rpi-gnome](https://github.com/wobbo/rpi-gnome) – Install GNOME on Raspberry Pi OS Lite for *Debian Trixie*, *GNOME*, *ARM64*.   
-- [signal-desktop](https://github.com/wobbo/signal-desktop) – Install Signal Desktop on *Debian Trixie*, *GNOME*, *ARM64*.  
-- [geary-debian](https://github.com/wobbo/geary-debian) – Geary 44.1 for *Debian Trixie*, *GNOME*, *ARM64*.
+- [rpi-gnome](https://github.com/wobbo/rpi-gnome) – Install GNOME on Raspberry Pi OS Lite for *Debian Trixie*, *GNOME*, *A**RM**64*.   
+- [signal-desktop](https://github.com/wobbo/signal-desktop) – Install Signal Desktop on *Debian Trixie*, *GNOME*, *A**RM**64*.  
+- [geary-debian](https://github.com/wobbo/geary-debian) – Geary 44.1 for *Debian Trixie*, *GNOME*, *A**RM**64*.
 - [nordvpn-wireguard](https://github.com/wobbo/nordvpn-wireguard) – Generate WireGuard configs from NordLynx for *Debian Trixie*, *GNOME*.
 - [debian-yaru](https://github.com/wobbo/debian-yaru) – Yaru themes for *Debian Trixie*, *GNOME*.  
 - [libreoffice-yaru](https://github.com/wobbo/libreoffice-yaru) – LibreOffice Yaru themes for *Debian Trixie*.
@@ -41,7 +41,7 @@ Background in **organizational advisory roles in rehabilitation care**, contribu
 - [vpn-ip-check](https://github.com/wobbo/vpn-ip-check) – Check your public IP to verify VPN status, speedtest support for *Debian, Ubuntu and more...*.
 - [gimp-apng](https://github.com/wobbo/gimp-apng/) – GIMP extension for animation APNG *Debian, Ubuntu and more...*.
 - [chrome-chromium-startup-fix](https://github.com/wobbo/chrome-chromium-startup-fix) – Fix stuck GNOME loading cursor for *Chrome and Chromium desktop/dock launchers*.
-- [bambu-studio](https://github.com/wobbo/bambu-studio) – Blender for Debian 13 Trixie GNOME
+- [bambu-studio](https://github.com/wobbo/bambu-studio) – Bambu Studio for *Debian Trixie*, *GNOME*, *A**MD**64*
 ---
 
 ### 🍓 Raspberry Pi forum posts
