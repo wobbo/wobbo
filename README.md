@@ -42,6 +42,7 @@ Background in **organizational advisory roles in rehabilitation care**, contribu
 - [gimp-apng](https://github.com/wobbo/gimp-apng/) – GIMP extension for animation APNG *Debian, Ubuntu and more...*.
 - [chrome-chromium-startup-fix](https://github.com/wobbo/chrome-chromium-startup-fix) – Fix stuck GNOME loading cursor for *Chrome and Chromium desktop/dock launchers*.
 - [bambu-studio](https://github.com/wobbo/bambu-studio) – Bambu Studio for *Debian Trixie*, *GNOME*, *A**MD**64*
+- [hdmi-audio-encoder](https://github.com/wobbo/hdmi-audio-encoder) – HDMI audio manager with Dolby Digital and DTS 5.1 for *Debian Trixie*, *GNOME*, *A**RM**64*.
 ---
 
 ### 🍓 Raspberry Pi forum posts
@@ -60,3 +61,4 @@ Background in **organizational advisory roles in rehabilitation care**, contribu
 - [LibreOffice Yaru Theme for Raspberry Pi OS Trixie (Debian 13)](https://forums.raspberrypi.com/viewtopic.php?t=393058#p2344404)
 - [RPi 500+ LED Controller for RGB Keyboard](https://forums.raspberrypi.com/viewtopic.php?t=397680#p2372473)
 - [Locale Codes for    sudo dpkg-reconfigure locales](https://forums.raspberrypi.com/viewtopic.php?t=398271#p2375720)
+- [INSTALL: RPi HDMI Audio 5.1 for GNOME — Dolby Digital & DTS over optical](https://forums.raspberrypi.com/viewtopic.php?t=400939#p2388810)
