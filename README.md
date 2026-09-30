@@ -43,6 +43,7 @@ Background in **organizational advisory roles in rehabilitation care**, contribu
 - [chrome-chromium-startup-fix](https://github.com/wobbo/chrome-chromium-startup-fix) – Fix stuck GNOME loading cursor for *Chrome and Chromium desktop/dock launchers*.
 - [bambu-studio](https://github.com/wobbo/bambu-studio) – Bambu Studio for *Debian Trixie*, *GNOME*, *A**MD**64*
 - [hdmi-audio-encoder](https://github.com/wobbo/hdmi-audio-encoder) – HDMI audio manager with Dolby Digital and DTS 5.1 for *Debian Trixie*, *GNOME*, *A**RM**64*.
+- [chromium-google-sync](https://github.com/wobbo/chromium-google-sync) – Enable Google account sign-in and Sync in Chromium for *Debian, Raspberry Pi OS and more...*.
 ---
 
 ### 🍓 Raspberry Pi forum posts
