@@ -44,6 +44,9 @@ Background in **organizational advisory roles in rehabilitation care**, contribu
 - [hdmi-audio-encoder](https://github.com/wobbo/hdmi-audio-encoder) – HDMI audio manager with Dolby Digital and DTS 5.1 for *Debian Trixie*, *GNOME*, *A**RM**64*.
 - [chrome-chromium-startup-fix](https://github.com/wobbo/chrome-chromium-startup-fix) – Fix stuck GNOME loading cursor for *Chrome and Chromium desktop/dock launchers*.
 - [chromium-google-sync](https://github.com/wobbo/chromium-google-sync) – Enable Google account sign-in and Sync in Chromium for *Debian, Raspberry Pi OS and more...*.
+- [chromium-ubuntu](https://github.com/wobbo/chromium-ubuntu) – Install Chromium as a native `.deb` instead of Snap for *Ubuntu 26.04*, *A**MD**64* and *A**RM**64*.
+- [chromium-widevine](https://github.com/wobbo/chromium-widevine) – Install Google Widevine DRM for native Chromium on *Debian, Ubuntu*, *A**MD**64* and *A**RM**64*.
+- [gnome-resources](https://github.com/wobbo/gnome-resources) – GNOME Resources 1.10.2 for *Debian Trixie*, *GNOME*, *A**RM**64*.
 ---
 
 ### 🍓 Raspberry Pi forum posts
