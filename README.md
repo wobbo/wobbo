@@ -40,9 +40,9 @@ Background in **organizational advisory roles in rehabilitation care**, contribu
 - [rpi500plus-led](https://github.com/wobbo/rpi500plus-led) – Raspberry Pi 500+ keyboard LED control for *Debian, Ubuntu and more...*.
 - [vpn-ip-check](https://github.com/wobbo/vpn-ip-check) – Check your public IP to verify VPN status, speedtest support for *Debian, Ubuntu and more...*.
 - [gimp-apng](https://github.com/wobbo/gimp-apng/) – GIMP extension for animation APNG *Debian, Ubuntu and more...*.
-- [chrome-chromium-startup-fix](https://github.com/wobbo/chrome-chromium-startup-fix) – Fix stuck GNOME loading cursor for *Chrome and Chromium desktop/dock launchers*.
 - [bambu-studio](https://github.com/wobbo/bambu-studio) – Bambu Studio for *Debian Trixie*, *GNOME*, *A**MD**64*
 - [hdmi-audio-encoder](https://github.com/wobbo/hdmi-audio-encoder) – HDMI audio manager with Dolby Digital and DTS 5.1 for *Debian Trixie*, *GNOME*, *A**RM**64*.
+- [chrome-chromium-startup-fix](https://github.com/wobbo/chrome-chromium-startup-fix) – Fix stuck GNOME loading cursor for *Chrome and Chromium desktop/dock launchers*.
 - [chromium-google-sync](https://github.com/wobbo/chromium-google-sync) – Enable Google account sign-in and Sync in Chromium for *Debian, Raspberry Pi OS and more...*.
 ---
 
